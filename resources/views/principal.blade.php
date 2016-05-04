@@ -6,19 +6,19 @@
 		<link rel="stylesheet" href="Login/css/style.css">
 </head>
 <body>
+	<div class="wrapper">
 	<div class="container">
-	<div class="row">
-		<h1>Welcome</h1>
-		<div class="col-xs-12">
+		<h1>Bienvenido</h1>
+
 		<form class="form">
-			<input type="text" placeholder="Username">
-			<input type="password" placeholder="Password">
-			<button type="submit" id="login-button">Login</button>
-		</div>
+			<input type="text" placeholder="Usuario">
+			<input type="password" placeholder="Contraseña">
+			<button type="submit" id="login-button">Acceder</button>
 		</form>
 	</div>
-	
 	<ul class="bg-bubbles">
+		<li></li>
+		<li></li>
 		<li></li>
 		<li></li>
 		<li></li>
