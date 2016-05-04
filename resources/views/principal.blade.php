@@ -6,14 +6,15 @@
 		<link rel="stylesheet" href="Login/css/style.css">
 </head>
 <body>
-	<div class="wrapper">
 	<div class="container">
+	<div class="row">
 		<h1>Welcome</h1>
-		
+		<div class="col-xs-12">
 		<form class="form">
 			<input type="text" placeholder="Username">
 			<input type="password" placeholder="Password">
 			<button type="submit" id="login-button">Login</button>
+		</div>
 		</form>
 	</div>
 	
