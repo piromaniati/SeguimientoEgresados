@@ -10,7 +10,7 @@
 	<div class="wrapper">
 	<div class="container">
 		<h1>Bienvenido</h1>
-		
+
 		<form class="form">
 			<input type="text" placeholder="Usuario">
 			<input type="password" placeholder="Contraseña">
