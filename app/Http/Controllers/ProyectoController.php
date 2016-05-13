@@ -13,6 +13,9 @@ class ProyectoController extends Controller
     public function principal(){
 		return view('principal');
 		}
+    public function RegistroEgresados(){
+		return view('RegistroEgresados');
+		}
 
 
 }
