@@ -6,6 +6,7 @@
 		<link rel="stylesheet" href="Login/css/style.css">
 </head>
 <body>
+
 	<div class="wrapper">
 	<div class="container">
 		<h1>Bienvenido</h1>
@@ -33,6 +34,7 @@
 		<li></li>
 		<li></li>
 	</ul>
+
 </div>
     <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
 
