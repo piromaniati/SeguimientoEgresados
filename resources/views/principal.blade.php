@@ -18,7 +18,6 @@
 			<br>
 			<a href="{{url('/registro')}}" class="btn btn-success">Registro</a>
 		</form>
-		
 	</div>
 	<ul class="bg-bubbles">
 		<li></li>
