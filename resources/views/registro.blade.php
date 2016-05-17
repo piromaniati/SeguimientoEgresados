@@ -14,7 +14,7 @@
     <br>
     <br>
     <div class="form-group">
-      <label for="inputNombre" class="col-xs-4 control-label">Nombre de tu Universidad</label>
+      <label for="inputNombre" class="col-xs-4 control-label">Nombre Universidad</label>
       <div class="col-xs-4">
         <input type="text" class="form-control" id="inputNombre" placeholder="Nombre">
       </div>
