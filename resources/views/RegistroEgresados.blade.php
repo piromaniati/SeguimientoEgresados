@@ -3,10 +3,13 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Registro Egresados</title>
+    <link rel="stylesheet" href="css/bootstrap-theme-darlky.css">
 </head>
 <body>
 	<form class="form-horizontal">
+ 
   <fieldset>
+  <br>
     <legend>Registro Para Egresados</legend>
     <div class="form-group">
       <label for="inputEmail" class=|"col-lg-2 control-label">Email</label>
