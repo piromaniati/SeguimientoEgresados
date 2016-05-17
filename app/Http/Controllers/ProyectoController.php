@@ -13,12 +13,10 @@ class ProyectoController extends Controller
     public function principal(){
 		return view('principal');
 		}
-	public function Registro(){
-
-		    public function RegistroEgresados(){
+	public function RegistroEgresados(){
 		return view('RegistroEgresados');
 		}
-		    public function registro(){
+	public function registro(){
 		return view('registro');
 		}
 }

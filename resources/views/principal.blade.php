@@ -17,7 +17,9 @@
 			<button type="submit" id="login-button">Acceder</button>
 			<br>
 			<br>
-			<a href="{{url('/registro')}}" class="btn btn-success">Registro</a>
+			<a href="{{url('/registro')}}" class="btn btn-success">Registro Universidades</a>
+			<br>
+			<a href="{{url('/RegistroEgresados')}}" class="btn btn-success">Registro Egresados</a>
 		</form>
 	</div>
 	<ul class="bg-bubbles">
