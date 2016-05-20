@@ -22,4 +22,7 @@ class ProyectoController extends Controller
 	public function master(){
 		return view('master');
 		}
+	public function AccederInstitucion(){
+	return view('instituciones');
+		}
 }
