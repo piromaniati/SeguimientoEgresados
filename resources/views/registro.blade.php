@@ -39,7 +39,7 @@
       <input type="password" class="form-control" id="inputPassword" placeholder="Password">
       <label>
       <br>
-        <a href="{{url('/principal')}}" class="btn btn-primary">Registrarse</a>
+        <a href="{{url('/principal')}}" style="right:inherit" class="btn btn-primary">Registrarse</a>
          <br>
         <br>
       </label>
