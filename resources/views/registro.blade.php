@@ -9,7 +9,6 @@
 <body>
 
 	<form class="form-vertical">
-
   <fieldset>
     <br>
     <br>
@@ -35,7 +34,6 @@
       </div>
     </div>
     <a href="{{url('/principal')}}" class="btn btn-primary">Registrarse</a>
-
 </body>
 </html>
 
