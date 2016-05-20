@@ -22,7 +22,7 @@
 		</div>
 			<div class="container" align="center">
 				
-						<a href="{{url('/principal')}}" class="btn btn-success btn-lg active">  Login  </a>
+						<a href="{{url('/principal')}}" class="btn btn-success btn-lg active">  Acceder  </a>
 						<br>
 						<a href="{{url('/registro')}}" class="btn btn-link">Registro Universidades</a>
 						<br>
@@ -31,6 +31,9 @@
 
 		<footer class="row">
 			<div class="col-xs-12 text-center">
+			<br>
+			<br>
+			<br>
 				Itzel & Javier &copy;
 			</div>
 		</footer>
