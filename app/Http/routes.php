@@ -13,8 +13,8 @@
 
 //Route::get('/', function () {return view('welcome');});
 
-Route::get('/','ProyectoController@principal');
+Route::get('/principal','ProyectoController@principal');
 Route::get('/RegistroEgresados','ProyectoController@RegistroEgresados');
 Route::get('/registro','ProyectoController@Registro');
-Route::get('/master','ProyectoController@master');
+Route::get('/','ProyectoController@master');
 Route::get('/principal','ProyectoController@principal');

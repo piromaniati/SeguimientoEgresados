@@ -11,10 +11,7 @@
 <body>
 
 	<form class="form-vertical">
-<<<<<<< HEAD
-=======
   <div class="container">
->>>>>>> 7eb9120a29097fd2dc385fc6b162e4fb8e2e29c4
   <fieldset>
     <br>
     <br>
@@ -50,12 +47,8 @@
         </div>
       </div>
     </div>
-<<<<<<< HEAD
-    <a href="{{url('/principal')}}" class="btn btn-primary">Registrarse</a>
-=======
     <br>
     </div>
->>>>>>> 7eb9120a29097fd2dc385fc6b162e4fb8e2e29c4
 </body>
 </html>
 
