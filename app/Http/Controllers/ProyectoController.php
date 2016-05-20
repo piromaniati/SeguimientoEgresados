@@ -21,7 +21,5 @@ class ProyectoController extends Controller
 		}
 	public function master(){
 		return view('master');
-	public function RedireccionLogin(){
-		return view('principal');
 		}
 }

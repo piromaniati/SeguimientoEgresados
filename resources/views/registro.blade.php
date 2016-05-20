@@ -11,10 +11,7 @@
 <body>
 
 	<form class="form-vertical">
-<<<<<<< HEAD
-=======
   <div class="container">
->>>>>>> 7eb9120a29097fd2dc385fc6b162e4fb8e2e29c4
   <fieldset>
     <br>
     <br>
@@ -42,7 +39,7 @@
       <input type="password" class="form-control" id="inputPassword" placeholder="Password">
       <label>
       <br>
-        <a href="{{url('/principal')}}" style="right:inherit" class="btn btn-primary">Registrarse</a>
+        <a href="{{url('/principal')}}" class="btn btn-primary">Registrarse</a>
          <br>
         <br>
       </label>
@@ -50,12 +47,8 @@
         </div>
       </div>
     </div>
-<<<<<<< HEAD
-    <a href="{{url('/principal')}}" class="btn btn-primary">Registrarse</a>
-=======
     <br>
     </div>
->>>>>>> 7eb9120a29097fd2dc385fc6b162e4fb8e2e29c4
 </body>
 </html>
 
