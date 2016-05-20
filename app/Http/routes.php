@@ -16,4 +16,6 @@
 Route::get('/','ProyectoController@principal');
 Route::get('/RegistroEgresados','ProyectoController@RegistroEgresados');
 Route::get('/registro','ProyectoController@Registro');
+Route::get('/master','ProyectoController@master');
+Route::get('/principal','ProyectoController@principal');
 Route::get('/principal','ProyectoController@RedireccionLogin');
