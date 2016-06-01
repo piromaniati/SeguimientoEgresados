@@ -26,3 +26,4 @@ class ProyectoController extends Controller
 	return view('instituciones');
 		}
 }
+}
