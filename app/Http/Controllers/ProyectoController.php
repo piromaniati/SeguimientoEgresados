@@ -25,5 +25,7 @@ class ProyectoController extends Controller
 	public function AccederInstitucion(){
 	return view('instituciones');
 		}
+	public function AccederEgresados(){
+	return view('Egresados');
+		}
 }
-

@@ -14,17 +14,13 @@
 		<form class="form">
 			<input type="text" placeholder="Usuario">
 			<input type="password" placeholder="Contraseña">
-
-
-			<button type="submit" id="login-button">AccederInstitucion</button>
-			<button type="submit" id="login-button">AccederEgresado</button>
 			<br>
 			<br>
-			<a href="{{url('/registro')}}" class="btn btn-success">Registro Universidades</a>
+			<a href="{{url('/instituciones')}}" class="btn btn-success btn-lg active">  AccederInstitucion </a>
 			<br>
-			<a href="{{url('/RegistroEgresados')}}" class="btn btn-success">Registro Egresados</a>
-
-			<button type="submit" id="login-button">Acceder</button>
+			<br>
+			<a href="{{url('/Egresados')}}" class="btn btn-success btn-lg active">  AccederEgresados </a>
+			<br>
 		</form>
 	</div>
 	<ul class="bg-bubbles">
@@ -46,9 +42,7 @@
 
     <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
     <script src="Login/js/index.js"></script>
-    <a href="{{url('/registro')}}" class="btn btn-success">Registro Universidades</a>
-	<br>
-	<a href="{{url('/RegistroEgresados')}}" class="btn btn-success">Registro Egresados</a>
+
 
 </body>
 </html>
