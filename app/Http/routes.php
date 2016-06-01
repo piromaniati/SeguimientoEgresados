@@ -19,3 +19,4 @@ Route::get('/registro','ProyectoController@Registro');
 Route::get('/','ProyectoController@master');
 Route::get('/principal','ProyectoController@principal');
 Route::get('/instituciones','ProyectoController@AccederInstitucion');
+Route::get('/Egresados','ProyectoController@AccederEgresados');
