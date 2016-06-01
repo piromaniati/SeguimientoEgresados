@@ -19,9 +19,9 @@
       </div>
     </div>
     <div class="form-group">
-      <label for="inputPassword" class="col-lg-2 control-label">Password</label>
+      <label for="Password" class="col-lg-2 control-label">Password</label>
       <div class="col-lg-6">
-        <input type="password" class="form-control" id="inputPassword" placeholder="Password">
+        <input type="password" class="form-control" id="Password" placeholder="Password">
         <div class="checkbox">
           <label>
             <input type="checkbox"> Checkbox
@@ -76,7 +76,7 @@
     <div class="form-group">
       <div class="col-lg-6 col-lg-offset-2">
         <button type="reset" class="btn btn-default">Cancel</button>
-        <button type="submit" class="btn btn-primary">Submit</button>
+        <a href="{{url('/principal')}}" class="btn btn-primary">Registrarse</a>
       </div>
     </div>
   </fieldset>
