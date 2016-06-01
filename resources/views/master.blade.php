@@ -24,6 +24,8 @@
 				
 						<a href="{{url('/principal')}}" class="btn btn-success btn-lg active">  Acceder  </a>
 						<br>
+						<br>
+						<br>
 						<a href="{{url('/registro')}}" class="btn btn-link">Registro Universidades</a>
 						<br>
 						<a href="{{url('/RegistroEgresados')}}" class="btn btn-link">Registro Egresados</a>
